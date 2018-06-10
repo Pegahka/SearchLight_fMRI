@@ -3,6 +3,7 @@
 # Introduction
 
 This code is an **extension** of the PYMVPA Searchlight: http://www.pymvpa.org/
+
 It is meant to add important functionalities to the original searchlight functionalities:
 
 - Figures are saved as .figs as well as in the nifti file-format
