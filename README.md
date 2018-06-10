@@ -1,4 +1,4 @@
-# SearchLight_fMRI
+# SearchLight_fMRI, Pegah Kassraian Fard
 
 # **Introduction**
 
