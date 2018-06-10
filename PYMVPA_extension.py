@@ -1,6 +1,6 @@
 # Original code by www.pymvpa.org
 
-# Modifications by Pegah Kassraian Fard (Stanford University, Columbia University NY) &
+# Modifications by Pegah Kassraian Fard (Stanford & Columbia University NY) &
 # Sergey Soloviev (Moscow Institute of Physics and Technology)
 
 
