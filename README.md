@@ -1,6 +1,6 @@
 # SearchLight_fMRI
 
-# Introduction
+# **Introduction**
 
 This code is an **extension** of the PYMVPA Searchlight: http://www.pymvpa.org/
 
@@ -13,3 +13,8 @@ It is meant to add important functionalities to the original searchlight functio
 Additionally, the **ttest_searchlight.py** script allows you to:
 
 - Perform a group-level t-test with FDR correction on the searchlight results. These group-level results are then saved in the nifti file format.
+
+# **How to cite**
+
+Please cite the sources mentioned on http://www.pymvpa.org/ as well as "Prior expectation tunes neural activity within primary somatosensory cortex to sharpen tactile detection (in preparation)".
+Pegah Kassraian Fard, Daniel G. Woolley, Marloes H. Maathuis, Nadja Enz, Nicole Wenderoth.
