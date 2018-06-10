@@ -14,6 +14,12 @@ Additionally, the **ttest_searchlight.py** script allows you to:
 
 - Perform a group-level t-test with FDR correction on the searchlight results. These group-level results are then saved in the nifti file format.
 
+For a better understanding of relevant searchlight parameters, here two reading recommendations:
+
+- Information-based functional brain mapping. Kriegeskorte N, Goebel R, Bandettini P. PNAS. 2006
+- Searchlight analysis: promise, pitfalls, and potential.
+Joset A. Etzel, Jeffrey M. Zacks, and Todd S. Braver, NeuroImage 2013.
+
 # **How to cite**
 
 - Please cite the sources mentioned on http://www.pymvpa.org/ 
@@ -23,12 +29,9 @@ Pegah Kassraian Fard, Daniel G. Woolley, Marloes H. Maathuis, Nadja Enz, Nicole 
 
 # **How to: Searchlight classification with PYMVPA_extension.py**
 
-This code allows you to perform a searchlight analysis, the details of the searchlight algorithm are detailed on 
+This code allows you to perform a searchlight analysis, the details of the searchlight algorithm can be found on 
 http://www.pymvpa.org/.
 
-For a better understanding of relevant searchlight parameters, here two reading recommendations:
 
--
--
 
 
