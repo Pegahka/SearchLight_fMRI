@@ -53,6 +53,14 @@ If you have nifti files you wish to ignore for classification, you can label the
 
 - Balancing: The code is automatically balancing the classes you have defined for classification.
 
+- Currently, the code is only classifying within a mask. If you wish to perform a whole-brain searchlight, you have to
+change the mask attribute to 'None':
+
+  db = mvpa2.datasets.mri.fmri_dataset(
+        nii_fns, mask=None, targets=labels, chunks=grps, sprefix=sprefix_, tprefix=tprefix_,
+        add_fa=None
+    )
+
 
 
 
