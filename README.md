@@ -20,3 +20,15 @@ Additionally, the **ttest_searchlight.py** script allows you to:
 
 - As well as "Prior expectation tunes neural activity within primary somatosensory cortex to sharpen tactile detection (in preparation)".
 Pegah Kassraian Fard, Daniel G. Woolley, Marloes H. Maathuis, Nadja Enz, Nicole Wenderoth.
+
+# **How to: Searchlight classification with PYMVPA_extension.py**
+
+This code allows you to perform a searchlight analysis, the details of the searchlight algorithm are detailed on 
+http://www.pymvpa.org/.
+
+For a better understanding of relevant searchlight parameters, here two reading recommendations:
+
+-
+-
+
+
