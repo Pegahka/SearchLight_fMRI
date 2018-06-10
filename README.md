@@ -63,6 +63,13 @@ change the mask attribute to 'None':
 
 # **How to: Searchlight group-level significance testing with ttest_searchlight.py**
 
+This code uses the resulting niftis from the searchlight analysis to perform a group-level t-test against chance level.
+Currently, chance level is set to 50% classification accuracy, this can be changed however if you wish:
+
+ > t, p = ttest_1samp(data, popmean=0.5, alternative='greater')
+ 
+ An FDR-correction is then performed on the resulting p-values, and the group-level results are stored again as nifti files.
+
 
 
 
