@@ -16,5 +16,7 @@ Additionally, the **ttest_searchlight.py** script allows you to:
 
 # **How to cite**
 
-Please cite the sources mentioned on http://www.pymvpa.org/ as well as "Prior expectation tunes neural activity within primary somatosensory cortex to sharpen tactile detection (in preparation)".
+- Please cite the sources mentioned on http://www.pymvpa.org/ 
+
+- As well as "Prior expectation tunes neural activity within primary somatosensory cortex to sharpen tactile detection (in preparation)".
 Pegah Kassraian Fard, Daniel G. Woolley, Marloes H. Maathuis, Nadja Enz, Nicole Wenderoth.
