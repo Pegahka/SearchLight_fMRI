@@ -1,4 +1,4 @@
-# Modifications by Pegah Kassraian Fard (Columbia University NY)
+# Modifications by Pegah Kassraian Fard (Stanford University, Columbia University NY)
 
 
 # Please cite:
