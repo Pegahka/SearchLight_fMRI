@@ -61,7 +61,7 @@ change the mask attribute to 'None':
         add_fa=None
     )
 
-
+# **How to: Searchlight group-level significance testing with ttest_searchlight.py**
 
 
 
