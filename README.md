@@ -68,7 +68,11 @@ Currently, chance level is set to 50% classification accuracy, this can be chang
 
  > t, p = ttest_1samp(data, popmean=0.5, alternative='greater')
  
- An FDR-correction is then performed on the resulting p-values, and the group-level results are stored again as nifti files.
+ An FDR-correction is then performed on the resulting p-values:
+ 
+ > reject, cp, _, _ = multipletests(p, method='fdr_tsbky')
+ 
+ Finally, the group-level results are stored again as nifti files.
 
 
 
