@@ -100,7 +100,7 @@ for subject in subject_list:
     # 'hand-region' of the right hemisphere
     #  Set mask=None if you wish you perform a whole brain search-light
     db = mvpa2.datasets.mri.fmri_dataset(
-        nii_fns, mask='Input/Hand_R_resz.nii', targets=labels, chunks=grps, sprefix=sprefix_, tprefix=tprefix_,
+        nii_fns, mask='Input/S1_R.nii', targets=labels, chunks=grps, sprefix=sprefix_, tprefix=tprefix_,
         add_fa=None
     )
 
