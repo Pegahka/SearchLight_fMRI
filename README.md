@@ -5,7 +5,7 @@ Searchlight extension by Pegah Kassraian Fard
 
 This code is an **extension** of the PYMVPA Searchlight: http://www.pymvpa.org/
 
-It is meant to add important functionalities to the original searchlight functionalities:
+It is meant to add further functionalities to the original searchlight functionalities:
 
 - Figures are saved as .figs as well as in the nifti file-format
 - Coordinates and accuracies of the searchlight classification are saved as numpy arrays 
