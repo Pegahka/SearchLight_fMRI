@@ -1,5 +1,5 @@
 # SearchLight_fMRI, 
-Searchlight extension by Pegah Kassraian Fard
+Searchlight extension by Pegah Kassraian 
 
 # **Introduction**
 
