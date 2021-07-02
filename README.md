@@ -23,7 +23,7 @@ For a better understanding of relevant searchlight parameters, here two reading 
 
 - Information-based functional brain mapping. Kriegeskorte N, Goebel R, Bandettini P. PNAS. 2006
 - Searchlight analysis: promise, pitfalls, and potential.
-Joset A. Etzel, Jeffrey M. Zacks, and Todd S. Braver, NeuroImage 2013.
+Joset A. Etzel, Jeffrey M. Zacks, and Todd S. Braver, NeuroImage 2013
 
 # **How to cite**
 
