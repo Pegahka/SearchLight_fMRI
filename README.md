@@ -1,4 +1,4 @@
-# SearchLight_fMRI, 
+# SearchLight fMRI
 Searchlight extension by Pegah Kassraian 
 
 # **Introduction**
