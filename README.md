@@ -1,5 +1,5 @@
 # SearchLight fMRI
-Searchlight extension by Pegah Kassraian 
+Exentsion of pymvpa searchlight module for fMRI; by Pegah Kassraian 
 
 # **Introduction**
 
