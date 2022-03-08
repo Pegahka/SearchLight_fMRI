@@ -1,5 +1,6 @@
 # SearchLight fMRI
-Extension of pymvpa searchlight module for fMRI; by Pegah Kassraian 
+Extension of the Python module "pymvpa", in particular of the SVM-based searchlight voxelwise-classification of fMRI data; 
+This extension has been implemented by Pegah Kassraian 
 
 # **Introduction**
 
